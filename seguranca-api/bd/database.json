@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Capacete de Proteção",
+    "categoria": "Proteção da Cabeça",
+    "ca": "12345"
+  },
+  {
+    "id": 2,
+    "nome": "Óculos de Segurança",
+    "categoria": "Proteção Visual",
+    "ca": "67890"
+  },
+  {
+    "id": 3,
+    "nome": "Botas de Proteção azul  verde",
+    "categoria": "Proteção para os pés e os dedos",
+    "ca": "100"
+  },
+  {
+    "id": 4,
+    "nome": "Luva de Proteção",
+    "categoria": "Proteção da mão",
+    "ca": "1000"
+  },
+  {
+    "id": 5,
+    "nome": "Protetor de Ouvidos",
+    "categoria": "Proteção para os ouvidos",
+    "ca": "2345"
+  }
+]
